@@ -10620,7 +10620,7 @@ spawn(function()
     end
 end)
 vu110:Notify({
-    ["Title"] = "Maru Hub",
+    ["Title"] = "Max Hub",
     ["Content"] = "T\225\186\163i Xong",
     ["Duration"] = 10
 })
